@@ -1,5 +1,7 @@
 # Pluralize
 
+[![CI](https://github.com/thelastbackspace/swift-pluralize/actions/workflows/ci.yml/badge.svg)](https://github.com/thelastbackspace/swift-pluralize/actions/workflows/ci.yml)
+
 Pluralize and singularize English words — irregulars, uncountables,
 and case preservation included.
 
